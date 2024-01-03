@@ -5,4 +5,5 @@ Nessa primeira versão o usurio pode adicionar\remover tarefa e marca como concl
 Essa e a primeira versão de um projeto pessoal meu que nomiei de ListaDeTarefa 1.0.
 
 Atulizações futuras:
+
 add grau de prioridade,add data e timer,editar tarefa,mostrar quantas tarefas foram finalizadas e quantas não foram,notificação de tarefa para fzer e interface grafica.
